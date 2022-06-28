@@ -4,6 +4,8 @@
 
 Uses the Java Linked list collections framework
 
+Look at the ITSupportSystemMain and ITSupportRequests java files.
+
 The system itself ues the LinkedList queue interface of the collections framework to simulate a tech support queue
  
  The program can do:
